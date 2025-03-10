@@ -23,8 +23,8 @@ const Home: Component = () => {
             <h3 class="card-title fw-bold">Accounts</h3>
             <ul class="list-group list-group-flush">
               <li class="list-group-item">
-                <a href="https://vocaloid.app/@m" target="_blank" class="d-flex align-items-center">
-                  <img src="https://simpleicons.org/icons/misskey.svg" alt="Misskey" width="24" height="24" class="me-2" /> @m@vocaloid.app
+                <a href="https://virtualsinger.jp/@m" target="_blank" class="d-flex align-items-center">
+                  <img src="https://simpleicons.org/icons/misskey.svg" alt="Misskey" width="24" height="24" class="me-2" /> @m@virtualsinger.jp
                 </a>
               </li>
               <li class="list-group-item">
